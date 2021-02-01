@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tenaid-5269b": {
+      "hosting": {
+        "fireshipcourse": [
+          "tenaid-5269b"
+        ]
+      }
+    }
+  }
+}
