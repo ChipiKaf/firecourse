@@ -1,0 +1,17 @@
+[33mcommit 023b1b92dd9fe65db1bac4b884b0088587bc5f8a[m[33m ([m[1;36mHEAD -> [m[1;32muser[m[33m, [m[1;31morigin/user[m[33m)[m
+Author: Chipili <ckafwilo@gmail.com>
+Date:   Mon Feb 1 15:05:36 2021 +0200
+
+    Updated User module with google and email authentication
+
+[33mcommit 7955a039dea65b119f5c919a2ff107eb803be94e[m
+Author: Chipili <ckafwilo@gmail.com>
+Date:   Mon Feb 1 10:37:49 2021 +0200
+
+    User module created and lazy loading added to the app module
+
+[33mcommit fc4c709573415fc79207fce7abaa72cf606a49da[m
+Author: Chipili <ckafwilo@gmail.com>
+Date:   Mon Feb 1 09:16:01 2021 +0200
+
+    first commit
